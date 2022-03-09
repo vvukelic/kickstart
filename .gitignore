@@ -231,3 +231,4 @@ sketch
 
 .DS_STORE
 ethereum/build
+ethereum/secret.json
